@@ -2,6 +2,8 @@
 
 ## Instructional Video
 
+You can view a walk-through video demonstrating the working API routes [here](https://www.youtube.com/watch?v=nIg42WTHLpY)
+
 ## TABLE OF CONTENTS
    1. [Description](#description)
    2. [Installation](#installation)
